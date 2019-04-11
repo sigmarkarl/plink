@@ -1,1 +1,1 @@
-# plink2 executable storage
+# plink2 executable storage for gorworker images
